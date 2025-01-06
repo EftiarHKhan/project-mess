@@ -10,6 +10,8 @@ class Routes {
   static const String resetPasswordSuccess = 'reset-password-success';
   static const String registration = 'registration';
 
+  static const String home = '/home';
+
   static const String homeTab = '/home-tab';
   static const String vacancyTab = '/vacancy-tab';
   static const String coursesTab = '/courses-tab';
